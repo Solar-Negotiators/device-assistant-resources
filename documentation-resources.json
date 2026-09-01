@@ -1,0 +1,10 @@
+[
+  {
+    "name": "How to contact IT",
+    "url": "https://www.solarnegotiators.com",
+    "category": "Getting Started",
+    "enabled": true
+  }
+  ,{ "name": "Employee Portal", "url": "https://portal.example.com", "category": "Company", "enabled": true }
+  ,{ "name": "Printing Setup", "url": "https://scribehow.com/example", "category": "IT", "enabled": true }
+]
