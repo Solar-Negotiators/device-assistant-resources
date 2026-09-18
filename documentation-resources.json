@@ -9,5 +9,6 @@
   { "name": "Generate Sales Proposal", "url": "https://scribehow.com/o/jX5plGQ9TDmW0RI3gsoi8Q/viewer/Generate_a_Salesforce_Solar_Sales_Proposal__iFG-180QR0y25I1EdrSUrg?referrer=documents", "category": "Salesforce", "enabled": true },
   { "name": "How to Log Client Communication", "url": "https://scribehow.com/o/jX5plGQ9TDmW0RI3gsoi8Q/viewer/How_to_Log_Client_Communication_in_Salesforce__I6EjsV3FQYehksAKex_aKw?referrer=documents", "category": "Salesforce", "enabled": true },
   { "name": "How to Preview/Test SFMC Email", "url": "https://scribehow.com/o/jX5plGQ9TDmW0RI3gsoi8Q/viewer/How_to_Preview_and_Test_an_Email_in_Salesforce_Marketing_Cloud__AupTlHBbRi2okWwHlZ3oJA?referrer=documents", "category": "Marketing Cloud", "enabled": true },
-  { "name": "How to Use the Helper Application", "url": "https://scribehow.com/o/jX5plGQ9TDmW0RI3gsoi8Q/viewer/Solar_Negotiators_Helper_Application_Windows__yEZCQajDRPOd1R4i0DSczA", "category": "About This App", "enabled": true }
+  { "name": "How to Use the Helper Application", "url": "https://scribehow.com/o/jX5plGQ9TDmW0RI3gsoi8Q/viewer/Solar_Negotiators_Helper_Application_Windows__yEZCQajDRPOd1R4i0DSczA", "category": "About This App", "enabled": true },
+  { "name": "Solar Negotiators Acronyms", "url": "https://docs.google.com/spreadsheets/d/1weFLkozv2TUS6Bk5zUW_-MzrMdXZyrbzph9euizGw-A/edit?usp=sharing", "category": "General", "enabled": true }
 ]
