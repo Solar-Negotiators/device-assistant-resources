@@ -75,5 +75,13 @@
   { "name": "ugly-dog", "url": "https://raw.githubusercontent.com/Solar-Negotiators/device-assistant-resources/main/wallpapers/ugly-dog.jpg", "enabled": true },
   { "name": "weird-face", "url": "https://raw.githubusercontent.com/Solar-Negotiators/device-assistant-resources/main/wallpapers/weird-face.png", "enabled": true },
   { "name": "fat-batman", "url": "https://raw.githubusercontent.com/Solar-Negotiators/device-assistant-resources/main/wallpapers/fat-batman.jpg", "enabled": true },
+  { "name": "eye-test", "url": "https://raw.githubusercontent.com/Solar-Negotiators/device-assistant-resources/main/wallpapers/eye-test.png", "enabled": true },
+  { "name": "waffles", "url": "https://raw.githubusercontent.com/Solar-Negotiators/device-assistant-resources/main/wallpapers/waffles.jpg", "enabled": true },
+  { "name": "bald-man", "url": "https://raw.githubusercontent.com/Solar-Negotiators/device-assistant-resources/main/wallpapers/bald-man.jpeg", "enabled": true },
+  { "name": "shark-horse", "url": "https://raw.githubusercontent.com/Solar-Negotiators/device-assistant-resources/main/wallpapers/shark-horse.png", "enabled": true },
+  { "name": "turtle-burger", "url": "https://raw.githubusercontent.com/Solar-Negotiators/device-assistant-resources/main/wallpapers/turtle-burger.jpg", "enabled": true },
+  { "name": "cat-fish-bowl", "url": "https://raw.githubusercontent.com/Solar-Negotiators/device-assistant-resources/main/wallpapers/cat-fish-bowl.jpg", "enabled": true },
+  { "name": "crazy-giraffe", "url": "https://raw.githubusercontent.com/Solar-Negotiators/device-assistant-resources/main/wallpapers/crazy-giraffe.jpg", "enabled": true },
+  { "name": "purrito", "url": "https://raw.githubusercontent.com/Solar-Negotiators/device-assistant-resources/main/wallpapers/purrito.jpg", "enabled": true },
   { "name": "zebra-dirt-bike", "url": "https://raw.githubusercontent.com/Solar-Negotiators/device-assistant-resources/main/wallpapers/zebra-dirt-bike.jpg", "enabled": true }
 ]
